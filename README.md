@@ -39,3 +39,7 @@ quotes, footnotes and endnotes, and speaker notes.
 | EPUB             | `.epub`                                                    |
 | CSV              | `.csv`                                                     |
 | PDF              | `.pdf`                                                     |
+
+## License
+
+[Unlicense](LICENSE)

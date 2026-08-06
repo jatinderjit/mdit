@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 rust-version = "1.88"
 description = "Converts documents to Markdown"
+license = "Unlicense"
 repository = "https://github.com/jatinderjit/mdit"
 keywords = ["cli", "pdf", "docx", "markdown"]
 
