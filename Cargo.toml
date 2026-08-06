@@ -2,6 +2,10 @@
 name = "mdit"
 version = "0.1.0"
 edition = "2024"
+rust-version = "1.88"
+description = "Converts documents to Markdown"
+repository = "https://github.com/jatinderjit/mdit"
+keywords = ["cli", "pdf", "docx", "markdown"]
 
 [dependencies]
 anydoc = "0.1.6"
